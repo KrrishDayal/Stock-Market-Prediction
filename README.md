@@ -20,9 +20,6 @@ cd Stock_Market_Prediction
 ```
 
 ## Models Used
-Here's a more concise version:
-
----
 
 ## Stock Prediction Model
 
